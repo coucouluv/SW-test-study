@@ -1,7 +1,7 @@
 # :pencil: 삼성 SW 테스트 스터디 :pencil:
 
 ## 순서
-<p> :one: 백준 : 삼성 SW 역량 테스트(https://www.acmicpc.net/workbook/view/1152) </p>
+<p> :one: 백준 : [삼성 SW 역량 테스트](https://www.acmicpc.net/workbook/view/1152) </p>
 
 ## 지켜야할 것
 <p> :one: 한 문제당 1시간 내로 풀기! </p>
