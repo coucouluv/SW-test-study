@@ -20,10 +20,11 @@
     vector<pair<int, int> > v;
 
 (> > 꼭 띄어 써야함!) </p>
+<p> :three: freopen 함수 사용법 </p>
 </br>
 
 ## 문제 유형
-<p> 완전탐색, BFS, DFS, 시뮬레이터 </p>
+<p> 완전탐색, BFS, DFS, 시뮬레이션 </p>
 </br>
 
 ## 알고리즘 공부
