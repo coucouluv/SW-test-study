@@ -15,7 +15,7 @@
 
 ## 주의점
 <p> :one: C, C++ 버전 낮음 (C++11이상 지원 :x:) </p>
-<p> :two: vector<pair<int, int> > v; (> > 꼭 띄어 써야함!) </p>
+<p> :two: "vector<pair<int, int> > v;" (> > 꼭 띄어 써야함!) </p>
 </br>
 
 ## 문제 유형
