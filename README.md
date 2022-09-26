@@ -26,6 +26,15 @@
 <p> :one: freopen 함수 사용법 </p>
 <p> :two: 공간 복잡도 : 512MB --> 1.2억개 int</p>
 <p> :three: float 대신 double을 사용하자! (상대 오차의 허용범위) </p>
+<p> :four:
+
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
+:loudspeaker: 주의 :loudspeaker: </br>
+위의 코드 사용 시 printf, scanf 사용 :x: 
+</p>
 </br>
 
 ## 문제 유형
