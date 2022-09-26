@@ -20,7 +20,12 @@
     vector<pair<int, int> > v;
 
 (> > 꼭 띄어 써야함!) </p>
-<p> :three: freopen 함수 사용법 </p>
+</br>
+
+## 참고 사항
+<p> :one: freopen 함수 사용법 </p>
+<p> :two: 공간 복잡도 : 512MB --> 1.2억개 int</p>
+<p> :three: float 대신 double을 사용하자! (상대 오차의 허용범위) </p>
 </br>
 
 ## 문제 유형
