@@ -17,11 +17,11 @@
 
 ## 주의점
 <p> :one: C, C++ 버전 낮음 (C++11이상 지원 :x:) </p>
-<p> :two:
+<p> :two: (> > 꼭 띄어 써야함!) 
 
     vector<pair<int, int> > v;
 
-(> > 꼭 띄어 써야함!) </p>
+</p>
 <br/>
 
 ## 참고 사항
@@ -34,8 +34,7 @@
     cin.tie(NULL);
     cout.tie(NULL);
 
-:loudspeaker: 주의 :loudspeaker: <br/>
-위의 코드 사용 시 printf, scanf 사용 :x: 
+ :loudspeaker: 위의 코드 사용 시 printf, scanf 사용 :x: 
 </p>
 <br/>
 
