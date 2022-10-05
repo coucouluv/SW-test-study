@@ -36,6 +36,8 @@
 
  :loudspeaker: 위의 코드 사용 시 printf, scanf 사용 :x: 
 </p>
+<p> :five: pair -> make_pair() 사용
+</p>
 <br/>
 
 ## 문제 유형
