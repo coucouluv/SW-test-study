@@ -22,6 +22,7 @@
     vector<pair<int, int> > v;
 
 </p>
+<p> :three: 실제 코딩 테스트는 SWEA와 비슷함!! init 함수 만들어서 입력 받고, 전역변수 초기화 하자!! </p>
 <br/>
 
 ## 참고 사항
